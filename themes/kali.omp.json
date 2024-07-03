@@ -87,5 +87,6 @@
       "type": "prompt"
     }
   ],
+  "auto_upgrade": true,
   "version": 2
 }
